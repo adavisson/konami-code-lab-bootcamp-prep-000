@@ -30,6 +30,6 @@ function init() {
     }
   }
   
-  document.body.addEventListener('keyDown', konamiCode);
+  document.body.addEventListener('keydown', konamiCode);
   
 }
