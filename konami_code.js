@@ -13,4 +13,13 @@ const codes = [
 
 function init() {
   // your code here
+
+  function konamiCode(e){
+    const key = e.key;
+    
+    if (key === codes[])
+  }
+  
+  
+  
 }
